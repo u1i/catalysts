@@ -1,6 +1,8 @@
 # The Catalysts – Brand Resources
 
-All the building blocks for our brand.
+Brands, like people, have their own personalities. Our brand is authentic, helpful, and brave. Every interaction with The Catalysts should reflect those core traits.
+
+Here are all the building blocks for our brand.
 
 ## Logo
 
@@ -17,6 +19,20 @@ All the building blocks for our brand.
 
 ![](./colors1.png)
 
-## Fonts
+## Typography
+
+### Headlines: Frutiger
+
+For headlines, titles of articles and slides. 
+
+![](./fonts1.png)
+
+[Frutiger](https://www.linotype.com/1270238/frutiger-family.html) | [Hind (Google Font)](https://fonts.google.com/specimen/Hind)
+
+## Text: Avenir
+
+![](./fonts2.png)
+
+[Avenir](https://github.com/potyt/fonts/tree/master/macfonts/Avenir) | [Avenir on Google Fonts](https://fonts.google.com/?query=Avenir)
 
 ## Templates

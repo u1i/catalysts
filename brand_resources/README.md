@@ -1,6 +1,6 @@
 # The Catalysts – Brand Resources
 
-Brands, like people, have their own personalities. Our brand is authentic and fearless, and our style is dynamic, scientific, and minimalist/modern. Every interaction with The Catalysts should reflect those core traits.
+Brands, like people, have their own personalities. Our brand is fearless and authentic, and our style is dynamic, scientific, and minimalist/modern. Every interaction with The Catalysts should reflect those core traits.
 
 Here are all the building blocks for our brand.
 

@@ -6,18 +6,18 @@ Here are all the building blocks for our brand.
 
 ## Logo
 
-![](./logos1.png)
+![](./img/logos1.png)
 
-[Download Full-Color Light Version](catalysts-logo.png)
+[Download Full-Color Light Version](./img/catalysts-logo.png)
 
-[Download Dark Version](catalysts-logo-white.png)
+[Download Dark Version](./img/catalysts-logo-white.png)
 
-[Download Monochrome Version](catalysts-logo-mono.png)
+[Download Monochrome Version](./img/catalysts-logo-mono.png)
 
 
 ## Colors
 
-![](./colors1.png)
+![](./img/colors1.png)
 
 ## Typography
 
@@ -25,13 +25,13 @@ Here are all the building blocks for our brand.
 
 For headlines, titles of articles and slides. 
 
-![](./fonts1.png)
+![](./img/fonts1.png)
 
 [Frutiger](https://www.linotype.com/1270238/frutiger-family.html) | [Hind (Google Font)](https://fonts.google.com/specimen/Hind)
 
 ## Text: Avenir
 
-![](./fonts2.png)
+![](./img/fonts2.png)
 
 [Avenir](https://github.com/potyt/fonts/tree/master/macfonts/Avenir) | [Avenir on Google Fonts](https://fonts.google.com/?query=Avenir)
 

@@ -1,6 +1,6 @@
 # The Catalysts – Brand Resources
 
-Brands, like people, have their own personalities. Our brand is authentic and brave. Every interaction with The Catalysts should reflect those core traits.
+Brands, like people, have their own personalities. Our brand is authentic and fearless. Every interaction with The Catalysts should reflect those core traits.
 
 Here are all the building blocks for our brand.
 

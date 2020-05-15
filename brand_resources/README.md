@@ -6,7 +6,7 @@ Here are all the building blocks for our brand.
 
 ## Logo
 
-![](./img/logos1.png)
+![](./img/logos2.png)
 
 [Download Full-Color Light Version](./img/catalysts-logo.png)
 

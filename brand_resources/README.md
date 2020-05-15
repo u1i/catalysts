@@ -15,6 +15,8 @@ All the building blocks for our brand.
 
 ## Colors
 
+![](./colors1.png)
+
 ## Fonts
 
 ## Templates

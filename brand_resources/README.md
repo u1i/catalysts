@@ -33,6 +33,6 @@ For headlines, titles of articles and slides.
 
 ![](./img/fonts2.png)
 
-[Avenir](https://github.com/potyt/fonts/tree/master/macfonts/Avenir) | [Nunito (Google Fonts)](https://fonts.google.com/specimen/Nunito)
+[Avenir](https://github.com/potyt/fonts/tree/master/macfonts/Avenir) | [Nunito (Google Font)](https://fonts.google.com/specimen/Nunito)
 
 ## Templates
